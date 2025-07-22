@@ -184,6 +184,38 @@
     "yimeng": {
       "api": "http://anltv.cn/api.php/provide/vod/",
       "name": "忆梦资源"
+    },
+    "huawaiba": {
+      "api": "https://hw8.live/api.php/provide/vod/",
+      "name": "华为吧"
+    },
+    "diduanys": {
+      "api": "cms://ddys",
+      "name": "低端影视"
+    },
+    "zaixianzj": {
+      "api": "cms://zxzj",
+      "name": "在线之家"
+    },
+    "wolong3": {
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "name": "卧龙资源"
+    },
+    "liangzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子资源"
+    },
+    "guangsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "name": "光速资源"
+    },
+    "ckzy2": {
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "name": "ck资源"
+    },
+    "siquanzy": {
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
+      "name": "四圈资源"
     }
   }
 }
