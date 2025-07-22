@@ -73,153 +73,117 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "xingchen": {
-      "api": "https://fmbox.cc/",
-      "name": "星辰"
+    "kuaiche": {
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "name": "快车资源"
     },
-    "fenxiang": {
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json",
-      "name": "分享"
+    "shandian": {
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电资源"
     },
-    "xiaowu": {
-      "api": "https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json",
-      "name": "小屋"
+    "tiankong": {
+      "api": "http://api.tiankongapi.com/api.php/provide/vod/",
+      "name": "天空资源"
     },
-    "yingtan": {
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.txt",
-      "name": "影探"
+    "tiantang": {
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "name": "天堂资源"
     },
-    "baohe1": {
-      "api": "http://mzjk.top/禁止贩卖",
-      "name": "宝盒"
+    "feisu": {
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+      "name": "飞速资源"
     },
-    "feimao": {
-      "api": "http://肥猫.com",
-      "name": "肥猫"
+    "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛资源"
     },
-    "fantaiying": {
-      "api": "http://www.饭太硬.com/tv",
-      "name": "饭太硬"
+    "uku": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "name": "U酷资源"
     },
-    "xiaomi": {
-      "api": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "name": "小米"
+    "yule": {
+      "api": "https://api.yulecj.com/api.php/provide/vod/",
+      "name": "鱼乐资源"
     },
-    "ok": {
-      "api": "http://ok321.top/ok",
-      "name": "OK"
+    "yingtu": {
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "name": "影图资源"
     },
-    "wangxiaoer": {
-      "api": "http://tvbox.王二小放牛娃.top",
-      "name": "王小二"
+    "kankan": {
+      "api": "https://zy.hikan.xyz/api.php/provide/vod/",
+      "name": "看看资源"
     },
-    "moyu": {
-      "api": "http://我不是.摸鱼儿.com",
-      "name": "摸鱼"
+    "yingmi": {
+      "api": "https://www.inmi.app/api.php/provide/vod/",
+      "name": "映迷"
     },
-    "kaixin": {
-      "api": "http://kxrj.site:55/天天开心",
-      "name": "开心"
+    "ckzy": {
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "name": "CK资源"
     },
-    "ouge": {
-      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "讴歌"
+    "baiduyun": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "name": "百度云资源"
     },
-    "qinglong": {
-      "api": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-      "name": "青龙"
-    },
-    "hengxing": {
-      "api": "http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php",
-      "name": "恒星"
-    },
-    "qiaoji": {
-      "api": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "巧记"
-    },
-    "miaoyingshi": {
-      "api": "http://meowtv.cn/tv",
-      "name": "喵影视"
-    },
-    "tinghao": {
-      "api": "https://ztha.top/TVBox/thdjk.json",
-      "name": "挺好"
-    },
-    "fuma": {
-      "api": "http://fmys.top/fmys.json",
-      "name": "驸马"
-    },
-    "longyi": {
-      "api": "https://xn--qoqw77q.top/",
-      "name": "龙一"
-    },
-    "chuanshuo": {
-      "api": "https://chuanshuo.77blog.cn/tv.json",
-      "name": "传说"
-    },
-    "baohe2": {
-      "api": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
-      "name": "宝盒"
-    },
-    "xixia": {
-      "api": "https://2912.kstore.space/0506.json",
-      "name": "西夏"
-    },
-    "lantian": {
-      "api": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
-      "name": "蓝天"
-    },
-    "feifan": {
-      "api": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
-      "name": "非凡"
-    },
-    "haibing": {
-      "api": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/%E6%B5%B7%E5%85%B5%E5%BD%B1%E8%A7%86.json",
-      "name": "海冰"
-    },
-    "huasheng": {
-      "api": "https://git.acwing.com/abai/tv/-/raw/main/huas.json",
-      "name": "花生"
-    },
-    "liuwei": {
-      "api": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
-      "name": "刘伟"
-    },
-    "chaoji": {
-      "api": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
-      "name": "超级"
-    },
-    "jianying": {
-      "api": "https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json",
-      "name": "剪影"
+    "mingdi": {
+      "api": "http://cj.md214.cn/api.php/provide/vod/",
+      "name": "明帝"
     },
     "jinying": {
-      "api": "http://550.3vcn.work/wdjyys.json",
-      "name": "金鹰"
+      "api": "https://jyzyapi.com/provide/vod/",
+      "name": "金鹰资源"
     },
-    "yingxiong": {
-      "api": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json",
-      "name": "英雄"
+    "piaoling": {
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "name": "飘零影院(vpn)"
     },
-    "duanju": {
-      "api": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "name": "短剧"
+    "tianyi": {
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+      "name": "天翼资源"
     },
-    "bailong": {
-      "api": "http://124.71.189.194/a.json",
-      "name": "白龙"
+    "meitian": {
+      "api": "http://47.113.126.237:1234/api.php/provide/vod/",
+      "name": "每天看看"
     },
-    "quanwangys": {
-      "api": "http://ww.weidonglong.com/ysc50311.json",
-      "name": "全网影视"
+    "feifan": {
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡资源"
     },
-    "xixiays": {
-      "api": "https://d.kstore.space/download/2912/xx888.json",
-      "name": "西夏影视"
+    "qihu": {
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "name": "奇虎资源"
     },
-    "wuxieduocang": {
-      "api": "https://gitee.com/wxej/wxrj/raw/master/wx.json",
-      "name": "无邪多仓"
+    "tuhao": {
+      "api": "https://www.tuhao.tv/api.php/provide/vod/",
+      "name": "土豪"
+    },
+    "jinying2": {
+      "api": "http://jinyingzy.com/provide/vod",
+      "name": "🐝金鹰资源"
+    },
+    "mtv": {
+      "api": "https://mv.wogg.link/mv/vod",
+      "name": "🎹┃MTV┃合集"
+    },
+    "xiangkan": {
+      "api": "https://xkanzy10.com/api.php/provide/vod",
+      "name": "┃享看┃采集"
+    },
+    "renren": {
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "name": "🈚人人影视"
+    },
+    "39ys": {
+      "api": "https://www.39kan.com/api.php/provide/vod/",
+      "name": "39影视"
+    },
+    "yikan": {
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "name": "易看资源"
+    },
+    "yimeng": {
+      "api": "http://anltv.cn/api.php/provide/vod/",
+      "name": "忆梦资源"
     }
   }
 }
