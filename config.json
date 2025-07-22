@@ -68,6 +68,50 @@
     "wujin": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源"
+    },
+    "your": {
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "your资源"
+    },
+    "fengchedm": {
+      "api": "https://api.fengchedm.com/api.php/provide/vod",
+      "name": "风车动漫",
+      "detail": "https://fengchedm.com"
+    },
+    "mengfanzu": {
+      "api": "https://moe.feizhuqwq.com/api.php/provide/vod",
+      "name": "萌番组",
+      "detail": "https://moe.feizhuqwq.com"
+    },
+    "dmzj": {
+      "api": "https://www.dmzj.com/api.php/provide/vod",
+      "name": "动漫之家",
+      "detail": "https://www.dmzj.com"
+    },
+    "jsdm": {
+      "api": "https://jsdm.tech/api.php/provide/vod",
+      "name": "极速动漫",
+      "detail": "https://jsdm.tech"
+    },
+    "miaoci": {
+      "api": "https://www.miaocanyun.com/api.php/provide/vod",
+      "name": "喵次元",
+      "detail": "https://www.miaocanyun.com"
+    },
+    "bilibili聚合": {
+      "api": "https://api.bilibili.com/x/web-interface/view",
+      "name": "B站聚合动漫",
+      "detail": "https://www.bilibili.com"
+    },
+    "dilidili": {
+      "api": "https://api.dilidili.one/api.php/provide/vod",
+      "name": "嘀哩嘀哩",
+      "detail": "https://dilidili.one"
+    },
+    "acfun动漫": {
+      "api": "https://api.acfun.cn/rest/app/play/playInfo",
+      "name": "AcFun动漫",
+      "detail": "https://www.acfun.cn"
     }
   }
 }
